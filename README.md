@@ -1,4 +1,4 @@
-![log](https://github.com/mantosh-mariner/em-system/blob/main/welcome.png)
+![logo](https://github.com/mantosh-mariner/em-system/blob/main/Welcome%20(2).gif)
 <!DOCTYPE html>
 <html lang="en">
 <head>

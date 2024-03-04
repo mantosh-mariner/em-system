@@ -7,8 +7,9 @@
                         <meta charset="UTF-8">
                         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--                         <title>Document</title> -->
+  
 </head>
-<body>
+<body bgcolor="FFE6E6">
                         <h1 align="center">Hi 👋, I'm Mantosh kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400px" alt="coding " align="right">

@@ -1,4 +1,6 @@
-![logo](https://github.com/mantosh-mariner/em-system/blob/main/Welcome%20(2).gif)
+
+<img class="it" src="https://github.com/mantosh-mariner/em-system/blob/main/Welcome%20(2).gif" width="100%" height="250px">
+<!-- <div width="100%" height="100px">![logo](https://github.com/mantosh-mariner/em-system/blob/main/Welcome%20(2).gif)</div> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
